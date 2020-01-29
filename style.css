@@ -1,3 +1,6 @@
-body {
-  background-color: ffff99;
+ div.a {
+    text-align: center;
+  }
+  div.b {
+    text-align: right;
   }
